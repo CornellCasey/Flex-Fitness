@@ -1,0 +1,21 @@
+<h1 class="uppercase" style="font-size: 54px; font-weight: 300 !important;">The Best Group Fitness Class in Edina, MN</h1>
+<p style="font-size: 16px;">Whether you are looking for Circuit Training, HIIT, or Strength Training in a group setting, we got you! Come be a part of a growing community of fitness lovers that inspire you to get outside your comfort zone, find your strength, and have fun while becoming the best version of you.</p>
+
+<p><a href="https://apps.apple.com/us/app/flex-fitness-mn/id1645307222?ign-itscg=30200&amp;ign-itsct=apps_box_link" target="_blank" rel="noopener"><img style="margin: 0px 10px; width: 175px;" src="/wp-content/uploads/2023/03/apple-store.png" /></a><a href="mndbdy.ly/e/5728079" target="_blank" rel="noopener"><img style="margin: 0px 10px; width: 175px;" src="/wp-content/uploads/2023/03/google-play.png" /></a></p>
+
+
+//Header Custom CSS//
+
+.header-button {
+    min-width: 200px;
+}
+.header-button a {
+    padding: 25px 50px;
+    float: right;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+.stuck .header-button a {
+	padding: 15px 50px;
+}
