@@ -19,3 +19,18 @@
 .stuck .header-button a {
 	padding: 15px 50px;
 }
+
+
+//MindBody Reviews//
+<div data-fred-widget-reviews=""></div>
+<script src="https://d1yw3duy3i4qiv.cloudfront.net/js/sdk-v1.js"></script>
+<script>
+    FRED.init({
+      locationId: "f018aa52-f764-41d6-8c2f-e3f879107bcd",
+      perPage: 4,
+      layout: "list",
+      background: "ffffff",
+      titleHexColor: "666666",
+      starHexColor: "f109a9"
+    });
+</script>
